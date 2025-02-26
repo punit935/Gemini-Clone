@@ -1,0 +1,9 @@
+.signIn{
+
+  display: flex;
+  justify-content: center;
+  height: 100vh; /* Make the container take up the full height of the viewport */
+  width: 100%; /* Make the container take up full width */
+  margin-top: 40px;
+}
+
